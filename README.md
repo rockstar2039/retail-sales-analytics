@@ -59,64 +59,49 @@ retail-sales-analytics/
 
 🔍 Analysis Performed
 1. Sales Trend Analysis
-
 Analyzed yearly and monthly sales performance to identify growth patterns and changes in revenue over time.
-
 Key observations:
-
 Sales declined slightly in 2016 compared with 2015.
 Sales increased strongly in 2017.
 2018 recorded the highest yearly sales.
+
+
 2. Regional Sales Analysis
-
 Compared sales and order performance across the four regions:
-
 West
 East
 Central
 South
-
 West generated the highest overall sales, while South generated the lowest.
-
 Regional performance was also analyzed using:
-
 Total Sales
 Unique Orders
 Average Order Value
+
 3. Category Analysis
-
 The three major product categories were analyzed:
-
 Technology
 Furniture
 Office Supplies
-
 Technology generated the highest total sales.
 
 4. Sub-Category Analysis
-
 Sales were further analyzed at the sub-category level.
-
 The leading sub-categories were:
-
 Phones
 Chairs
 Storage
 Tables
 Binders
-
 This analysis helped identify the major product groups contributing to overall revenue.
 
 5. Customer Analysis
-
 Customer purchasing behavior was analyzed using:
-
 Unique Orders
 Total Sales
 Average Order Value
 
 Customers were grouped according to their purchasing frequency.
-
 | Unique Orders | Customer Segment    |
 | ------------: | ------------------- |
 |           1–3 | Low Frequency       |
