@@ -8,7 +8,7 @@ The project combines SQL-based analysis, Python data exploration, customer segme
 
 ## 📸 Dashboard Preview
 
-![Retail Sales Analytics Dashboard](screenshots/retail_sales_dashboard.png)
+![Retail Sales Analytics Dashboard](https://github.com/rockstar2039/retail-sales-analytics/blob/main/screenshots/Screenshot%202026-08-17%20202833.png)
 
 ---
 
