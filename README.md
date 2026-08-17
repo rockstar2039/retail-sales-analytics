@@ -42,16 +42,16 @@ The objective of this project is to analyze retail transaction data and answer k
 
 ## 📂 Project Structure
 retail-sales-analytics/
-│
+
 ├── powerbi/
 │   └── Retail_Sales_Analytics_Dashboard.pbix
-│
+
 ├── python/
 │   └── sales_analysis.py
-│
+
 ├── screenshots/
 │   └── retail_sales_dashboard.png
-│
+
 ├── sql/
 │   └── superstore_analysis.sql
 │
